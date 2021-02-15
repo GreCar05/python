@@ -1,0 +1,12 @@
+1569262794527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dNoivMZ2hjNG"
+1569262801256	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1569262801256	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1569262801257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1569262801257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1569262810410	Marionette	INFO	Listening on port 41827
+1569262810492	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://zeus.sii.cl/cvc/validaestandar.js, line 629: unreachable code after return statement
+[Parent 18544, Gecko_IOThread] WARNING: pipe error (73): Conexión reinicializada por la máquina remota: file /build/firefox-gS7uvX/firefox-69.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 18544, Gecko_IOThread] WARNING: pipe error (92): Conexión reinicializada por la máquina remota: file /build/firefox-gS7uvX/firefox-69.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Transaction canceled due to a closed connection.", "resource://gre/modules/Sqlite.jsm", 613))
+1569262882964	Marionette	INFO	Stopped listening on port 41827
